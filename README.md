@@ -127,22 +127,6 @@ The robot character represents creativity, engineering, ambition, and the journe
 
 </div>
 
----
-
-
-## 🌐 Live Demo
-
-You can view the live version of the website here:
-
-<p align="center">
-
-<a href="http://saz.kesug.com/" target="_blank">
-
-🌍 Visit My Personal Website
-
-</a>
-
-</p>
 
 ---
 
