@@ -129,7 +129,9 @@ The robot character represents creativity, engineering, ambition, and the journe
 
 
 ---
+[![Live Website](https://img.shields.io/badge/🌐-Live%20Website-B9965A?style=for-the-badge)](http://saz.kesug.com/)
 
+---
 
 ## 👩🏻‍💻 Author
 
