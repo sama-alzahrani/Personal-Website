@@ -72,20 +72,6 @@ A custom robot character was used to reflect my interest in engineering, creativ
 
 ---
 
-## 📱 Responsive Design
-
-The website automatically adapts to different screen sizes.
-
-### Desktop
-
-The personal information and contact section appear on the left, while the robot appears on the right.
-
-### Mobile
-
-The content is displayed vertically to make the website easier to read and use on smaller screens.
-
----
-
 ## 📂 Project Structure
 
 ```text
